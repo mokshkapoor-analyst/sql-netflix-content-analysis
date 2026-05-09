@@ -151,7 +151,7 @@ Aspiring Data Analyst
 </p>
 
 📢 You can also check this project on my LinkedIn post: 
-<a href="https://www.linkedin.com/posts/moksh-kapoor-618495322_dataanalytics-dataanalysis-excel-activity-7438566531006894080-w_mV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVzjQBQzKnpNzkuOZayyyvYW4FkHnrf28" target="_blank">
+<a href="https://www.linkedin.com/posts/moksh-kapoor-618495322_netflix-content-analysis-project-sql-project-activity-7443276911025262592--Aob?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVzjQBQzKnpNzkuOZayyyvYW4FkHnrf28" target="_blank">
 View Post 🚀
 </a>
 
