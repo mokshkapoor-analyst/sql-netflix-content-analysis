@@ -2,6 +2,20 @@
 
 Analyzed the Netflix Movies and TV Shows dataset using SQL to understand content growth, content mix, and regional trends over time. Performed data cleaning, exploratory analysis, and advanced SQL queries using CTEs and window functions to uncover insights on genres, durations, ratings, and country-wise distribution. Delivered business insights on Netflix’s content strategy, growth patterns, and audience engagement drivers.
 
+---
+
+## 📊 Project Preview
+
+### 🎥 Workings of Netflix Content Analysis Project (SQL)
+
+📌 Click on the image to see the working of this project as a presentation  
+
+<a href="https://www.linkedin.com/posts/moksh-kapoor-618495322_netflix-content-analysis-project-sql-project-activity-7443276911025262592--Aob?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVzjQBQzKnpNzkuOZayyyvYW4FkHnrf28">
+  <img src="Images/Netflix%20Content%20Analysis.jpg" alt="Netflix Content Analysis" width="100%">
+</a>
+
+---
+
 ## 📌 Project Overview
 
 This project uses the Netflix Titles dataset, which contains thousands of rows of information about Movies and TV Shows available on Netflix.
